@@ -1,0 +1,14 @@
+C:\Users\ASUS\source\repos\Homework-static,abstraction\Homework-static,abstraction\bin\Debug\netcoreapp3.1\Homework-static,abstraction.exe
+C:\Users\ASUS\source\repos\Homework-static,abstraction\Homework-static,abstraction\bin\Debug\netcoreapp3.1\Homework-static,abstraction.deps.json
+C:\Users\ASUS\source\repos\Homework-static,abstraction\Homework-static,abstraction\bin\Debug\netcoreapp3.1\Homework-static,abstraction.runtimeconfig.json
+C:\Users\ASUS\source\repos\Homework-static,abstraction\Homework-static,abstraction\bin\Debug\netcoreapp3.1\Homework-static,abstraction.runtimeconfig.dev.json
+C:\Users\ASUS\source\repos\Homework-static,abstraction\Homework-static,abstraction\bin\Debug\netcoreapp3.1\Homework-static,abstraction.dll
+C:\Users\ASUS\source\repos\Homework-static,abstraction\Homework-static,abstraction\bin\Debug\netcoreapp3.1\Homework-static,abstraction.pdb
+C:\Users\ASUS\source\repos\Homework-static,abstraction\Homework-static,abstraction\obj\Debug\netcoreapp3.1\Homework-static,abstraction.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\Homework-static,abstraction\Homework-static,abstraction\obj\Debug\netcoreapp3.1\Homework-static,abstraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\Homework-static,abstraction\Homework-static,abstraction\obj\Debug\netcoreapp3.1\Homework-static,abstraction.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\Homework-static,abstraction\Homework-static,abstraction\obj\Debug\netcoreapp3.1\Homework-static,abstraction.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\Homework-static,abstraction\Homework-static,abstraction\obj\Debug\netcoreapp3.1\Homework-static,abstraction.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Homework-static,abstraction\Homework-static,abstraction\obj\Debug\netcoreapp3.1\Homework-static,abstraction.dll
+C:\Users\ASUS\source\repos\Homework-static,abstraction\Homework-static,abstraction\obj\Debug\netcoreapp3.1\Homework-static,abstraction.pdb
+C:\Users\ASUS\source\repos\Homework-static,abstraction\Homework-static,abstraction\obj\Debug\netcoreapp3.1\Homework-static,abstraction.genruntimeconfig.cache

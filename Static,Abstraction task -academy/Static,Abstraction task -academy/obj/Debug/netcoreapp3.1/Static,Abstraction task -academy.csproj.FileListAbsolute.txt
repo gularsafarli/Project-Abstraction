@@ -1,0 +1,14 @@
+C:\Users\ASUS\source\repos\Static,Abstraction task -academy\Static,Abstraction task -academy\bin\Debug\netcoreapp3.1\Static,Abstraction task -academy.exe
+C:\Users\ASUS\source\repos\Static,Abstraction task -academy\Static,Abstraction task -academy\bin\Debug\netcoreapp3.1\Static,Abstraction task -academy.deps.json
+C:\Users\ASUS\source\repos\Static,Abstraction task -academy\Static,Abstraction task -academy\bin\Debug\netcoreapp3.1\Static,Abstraction task -academy.runtimeconfig.json
+C:\Users\ASUS\source\repos\Static,Abstraction task -academy\Static,Abstraction task -academy\bin\Debug\netcoreapp3.1\Static,Abstraction task -academy.runtimeconfig.dev.json
+C:\Users\ASUS\source\repos\Static,Abstraction task -academy\Static,Abstraction task -academy\bin\Debug\netcoreapp3.1\Static,Abstraction task -academy.dll
+C:\Users\ASUS\source\repos\Static,Abstraction task -academy\Static,Abstraction task -academy\bin\Debug\netcoreapp3.1\Static,Abstraction task -academy.pdb
+C:\Users\ASUS\source\repos\Static,Abstraction task -academy\Static,Abstraction task -academy\obj\Debug\netcoreapp3.1\Static,Abstraction task -academy.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\Static,Abstraction task -academy\Static,Abstraction task -academy\obj\Debug\netcoreapp3.1\Static,Abstraction task -academy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\Static,Abstraction task -academy\Static,Abstraction task -academy\obj\Debug\netcoreapp3.1\Static,Abstraction task -academy.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\Static,Abstraction task -academy\Static,Abstraction task -academy\obj\Debug\netcoreapp3.1\Static,Abstraction task -academy.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\Static,Abstraction task -academy\Static,Abstraction task -academy\obj\Debug\netcoreapp3.1\Static,Abstraction task -academy.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Static,Abstraction task -academy\Static,Abstraction task -academy\obj\Debug\netcoreapp3.1\Static,Abstraction task -academy.dll
+C:\Users\ASUS\source\repos\Static,Abstraction task -academy\Static,Abstraction task -academy\obj\Debug\netcoreapp3.1\Static,Abstraction task -academy.pdb
+C:\Users\ASUS\source\repos\Static,Abstraction task -academy\Static,Abstraction task -academy\obj\Debug\netcoreapp3.1\Static,Abstraction task -academy.genruntimeconfig.cache
